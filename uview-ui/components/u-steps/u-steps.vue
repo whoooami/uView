@@ -120,7 +120,7 @@ $u-steps-item-dot-width: 20rpx;
 		flex: 1;
 		text-align: center;
 		position: relative;
-		min-width: 100rpx;
+		//min-width: 100rpx;
 		font-size: 26rpx;
 		color: #8799a3;
 		@include vue-flex;
